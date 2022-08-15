@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e4ba7a1.css",
+    "main.js": "/static/js/main.d4fb55e6.js",
+    "static/media/Rajdhani-Medium.ttf": "/static/media/Rajdhani-Medium.69a9f7bccb45c01931a2.ttf",
+    "static/media/Ubuntu-Medium.ttf": "/static/media/Ubuntu-Medium.e37c5546eb1a6efc4818.ttf",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.527d0fc09fb3280153c2.svg",
+    "static/media/mongo.svg": "/static/media/mongo.464a4e8bb6d791cfa542.svg",
+    "static/media/css.svg": "/static/media/css.aec31ad6887c3a820a1b.svg",
+    "static/media/html.svg": "/static/media/html.fe296947d8d83d0d645a.svg",
+    "static/media/github.svg": "/static/media/github.fc0ffe042a9582d2a394.svg",
+    "index.html": "/index.html",
+    "static/media/js.svg": "/static/media/js.0dd1cf6c80bb500c655a.svg",
+    "main.6e4ba7a1.css.map": "/static/css/main.6e4ba7a1.css.map",
+    "main.d4fb55e6.js.map": "/static/js/main.d4fb55e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e4ba7a1.css",
+    "static/js/main.d4fb55e6.js"
+  ]
+}
